@@ -8,6 +8,8 @@ namespace practica1
 {
     class ejercicio4
     {
+        //Marco René Esquivel Juárez
+        //10-Julio
         public void ejer4()
         {
             decimal trimestre1, trimestre2, trimestre3, promedio;

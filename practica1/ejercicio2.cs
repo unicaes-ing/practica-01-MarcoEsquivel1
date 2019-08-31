@@ -8,6 +8,8 @@ namespace practica1
 {
     class ejercicio2
     {
+        //Marco René Esquivel Juárez
+        //10-Julio
         public void ejer2()
         {
             string nombre, cargo, correo, fechaContratacion;

@@ -8,6 +8,8 @@ namespace practica1
 {
     class ejercicio3
     {
+        //Marco René Esquivel Juárez
+        //10-Julio
         public void ejer3()
         {
             decimal num1, num2, sum, res, mul, div;

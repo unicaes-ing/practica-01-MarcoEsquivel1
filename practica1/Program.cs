@@ -8,6 +8,8 @@ namespace practica1
 {
     class Program
     {
+        //Marco René Esquivel Juárez
+        //10-Julio
         static void Main(string[] args)
         {
             int op;
